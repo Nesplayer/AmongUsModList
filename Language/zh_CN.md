@@ -2,9 +2,9 @@ Among Us模组列表
 
 ### H系模组
 
-- TownOfHost-Optimized（TOHO)
+:star: [TOHO（TownOfHost-Optimized）](https://github.com/Limeau/TownofHost-Optimized)
 
-- EndlessHostRoles（EHR）
+:star: [EHR（EndlessHostRoles）](https://github.com/Gurge44/EndlessHostRoles)
 
 ### 非H系模组
 
