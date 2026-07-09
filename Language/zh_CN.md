@@ -18,7 +18,7 @@ Among Us模组列表
 :star: [Reactor](https://github.com/nuclearpowered/reactor)  
 #### 状态：仍在更新，最新版本 v2.5.1
 :star: [Level Impostor](https://github.com/DigiWorm0/LevelImposter)  
-#### 状态：仍在更新，最新版本 v0.21.2 Beta
+#### 状态：仍在更新，最新版本 v0.21.2 Beta  
 
 ### 服务器
 
