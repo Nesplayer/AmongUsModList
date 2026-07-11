@@ -2,6 +2,8 @@ Among Us模组列表
 
 ### H系模组
 
+:star: [Town Of Host Edited](https://github.com/TownOfNext/TownOfNext/tree/tohe)  
+#### 状态：已存档，最后版本 v2.3.6
 :star: [Town Of Next](https://github.com/TownOfNext/TownOfNext)  
 #### 状态：仍在更新，最新版本 v4.0.0
 :star: [Endless Host Roles](https://github.com/Gurge44/EndlessHostRoles)  
