@@ -24,3 +24,7 @@ Among Us模组列表
 
 :star: [Impostor](https://github.com/impostor/impostor)  
 #### 状态：仍在更新，最新版本 v1.10.6  
+
+### 外挂
+:star: [Malum Menu](https://github.com/scp222thj/MalumMenu)  
+#### 状态：仍在更新，最新版本 v3.2.0  
